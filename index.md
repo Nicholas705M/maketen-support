@@ -1,4 +1,10 @@
+---
+title: Support
+---
+
 # Support
+
+[Support](/) | [Privacy Policy](/privacy-policy)
 
 A number-merging puzzle game where you combine numbers to create perfect tens.
 
