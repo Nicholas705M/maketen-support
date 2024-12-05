@@ -1,4 +1,10 @@
-# Privacy Policy
+---
+title: Privacy Policy
+---
+
+# Privacy Policy for Make Ten!
+
+[Support](/) | [Privacy Policy](/privacy-policy)
 
 Last updated: December 5, 2024
 
