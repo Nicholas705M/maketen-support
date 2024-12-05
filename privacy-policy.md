@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-[Support](/) | [Privacy Policy](/privacy-policy)
+[Support](/maketen-support) | [Privacy Policy](/maketen-support/privacy-policy)
 
 Last updated: December 5, 2024
 
