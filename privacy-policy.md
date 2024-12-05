@@ -1,4 +1,4 @@
-# Privacy Policy for Make Ten!
+# Make Ten! Privacy Policy
 
 Last updated: December 5, 2024
 
