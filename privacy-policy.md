@@ -2,7 +2,7 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy for Make Ten!
+# Privacy Policy
 
 [Support](/) | [Privacy Policy](/privacy-policy)
 
