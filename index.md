@@ -4,7 +4,7 @@ title: Support
 
 # Support
 
-[Support](/) | [Privacy Policy](/privacy-policy)
+[Support](/maketen-support) | [Privacy Policy](/maketen-support/privacy-policy)
 
 A number-merging puzzle game where you combine numbers to create perfect tens.
 
