@@ -1,14 +1,12 @@
----
-title: Support
----
+# Make Ten!
 
-# Support
+## Support
 
 [Support](/maketen-support) | [Privacy Policy](/maketen-support/privacy-policy)
 
 A number-merging puzzle game where you combine numbers to create perfect tens.
 
-## How to Play
+### How to Play
 
 - Swipe between adjacent numbers to combine them
 - Create sums of exactly 10 to make them explode
@@ -16,10 +14,10 @@ A number-merging puzzle game where you combine numbers to create perfect tens.
 - Race against the clock
 - Make consecutive tens for combo multipliers
 
-## Need Help?
+### Need Help?
 
 - [Report a Bug](https://github.com/Nicholas705M/maketen-support/issues/new?template=bug_report.md)
 - [Suggest a Feature](https://github.com/Nicholas705M/maketen-support/issues/new?template=feature_request.md)
 
-## Latest Version: 1.0.0
+### Latest Version: 1.0.0
 - Initial release
