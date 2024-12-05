@@ -1,4 +1,4 @@
-# Make Ten! Support
+# Support
 
 A number-merging puzzle game where you combine numbers to create perfect tens.
 
